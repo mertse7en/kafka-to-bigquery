@@ -1,0 +1,6 @@
+google-cloud-bigquery
+pandas
+pyarrow
+google-cloud-bigquery-storage
+pandas-gbq
+xmltodict
