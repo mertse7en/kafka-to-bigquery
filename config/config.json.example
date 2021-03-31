@@ -1,0 +1,7 @@
+{
+    "google_service_account" : ".com",
+    "db_name" : "***",
+    "project_id": "***",
+    "brokers":"broker1,broker2"
+    
+  }
